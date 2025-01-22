@@ -1,6 +1,6 @@
 #include <stdio.h>
    
-   //não funciona. odeio c. prefiro java :(
+   //não funciona. odeio c e a minha vida . prefiro java :(
     //void dataInput( char entrada[20] ){
         //printf("%s \n", entrada );
         //scanf("%s", &)
